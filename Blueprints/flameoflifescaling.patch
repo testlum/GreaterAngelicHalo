@@ -1,0 +1,13 @@
+{
+    "_#ArrayMergeSettings": "Union",
+    "Components": [
+        {
+            "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+            "name": "$ContextRankConfig$2fcfd6f5-7416-4cb2-8d58-6586a9011032",
+            "m_BaseValueType": "MythicLevel",
+            "m_Progression": "BonusValue",
+            "m_StartLevel": "10",
+            "m_StepLevel": "10"
+        }
+    ]
+}

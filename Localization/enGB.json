@@ -1,0 +1,28 @@
+{
+    "strings": [
+        {
+            "Key": "b164b811-2e7c-41c7-bcd9-302defcde6e4",
+            "Value": "All allies in range of the Angelic Halo gain {g|Encyclopedia:Fast_Healing}fast healing{/g} equal to 10 + your mythic rank for 1 {g|Encyclopedia:Combat_Round}round{/g} upon taking {g|Encyclopedia:Damage}damage{/g}."
+        },
+        {
+            "Key": "5e7b9ff9-28da-43f9-ad59-b8f2d4d88483",
+            "Value": "All allies in range of the Angelic Halo get fire, cold, acid, and electricity {g|Encyclopedia:Energy_Resistance}resistance{/g} equal to 5 per mythic rank, sonic and negative energy resistance equal to 3 per mythic rank, and force, unholy, holy, and divine resistance equal to 1 per mythic rank."
+        },
+        {
+            "Key": "886fda7b-4998-4f8f-be25-5c954e3acc9b",
+            "Value": "All enemies in range of the Angelic Halo suffer a {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Spell_Resistance}spell resistance{/g} and {g|Encyclopedia:Saving_Throw}saving throws{/g} equal to 1 + half your mythic rank."
+        },
+        {
+            "Key": "3c60f3eb-475f-4f85-b290-4095d6e54e70",
+            "Value": "All demon and undead enemies in range of the Angelic Halo suffer {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Energy_Damage}holy damage{/g} per mythic rank each {g|Encyclopedia:Combat_Round}round{/g}."
+        },
+        {
+            "Key": "c1295e7c-1348-4582-88d5-284e28ae1a72",
+            "Value": "Any enemy that attacks you for the first time each {g|Encyclopedia:Combat_Round}round{/g} must succeed on a {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} ({g|Encyclopedia:DC}DC{/g} = 10 + half your {g|Encyclopedia:Character_Level}character level{/g} + your mythic rank + highest ability modifier) or be {g|ConditionBlind}blinded{/g} for {g|Encyclopedia:Dice}1d4{/g}+1 rounds. On a successful save, the enemy is blinded for 1 round."
+        },
+        {
+            "Key": "9afe5eb5-392d-4dae-a6ee-9ef447ac4ce9",
+            "Value": "Greater Angelic Halo"
+        }
+    ]
+}

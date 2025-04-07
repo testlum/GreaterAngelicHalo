@@ -1,0 +1,31 @@
+{
+    "ElementsPatches": [
+        {
+            "Name": "$ContextActionApplyBuff$822dd41a-1f22-43d3-a31b-0f0fd672cd51",
+            "Data": {
+                "m_Buff": "!bp_0ec36e7596a4928489d2049e1e1c76a7",
+                "DurationValue": {
+                    "Rate": "Rounds",
+                    "DiceType": "Zero",
+                    "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                    },
+                    "BonusValue": {
+                        "ValueType": "Simple",
+                        "Value": 2,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                    },
+                    "m_IsExtendable": true
+                }
+            }
+        }
+    ]
+}

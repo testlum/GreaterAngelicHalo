@@ -1,0 +1,28 @@
+{
+    "ElementsPatches": [
+        {
+            "Name": "$ContextActionDealDamage$1278a60d-e2d3-4472-b75f-2d7b14cdfd6c",
+            "Data": {
+                "Value": {
+                    "DiceType": "D6",
+                    "DiceCountValue": {
+                        "ValueType": "CasterProperty",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "MythicLevel",
+                        "m_CustomProperty": null
+                    },
+                    "BonusValue": {
+                        "ValueType": "Simple",
+                        "Value": "0",
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                    }
+                }
+            }
+        }
+    ]
+}

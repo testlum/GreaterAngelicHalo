@@ -1,0 +1,35 @@
+{
+    "_#ArrayMergeSettings": "Union",
+    "Components": [
+        {
+            "$type": "a6777ad03deb60a4e8ef6b7067ac836b, ContextCalculateSharedValue",
+            "name": "$ContextCalculateSharedValue$69b84cea-4b67-47f9-a240-854e596c1ca5",
+            "PrototypeLink": {
+                "guid": "null",
+                "name": "null"
+            },
+            "m_Overrides": [],
+            "ValueType": "DamageBonus",
+            "Value": {
+                "DiceType": "Zero",
+                "DiceCountValue": {
+                    "ValueType": "Simple",
+                    "Value": "0",
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": "null"
+                },
+                "BonusValue": {
+                    "ValueType": "Rank",
+                    "Value": "0",
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": "null"
+                }
+            },
+            "Modifier": "1"
+        }
+    ]
+}

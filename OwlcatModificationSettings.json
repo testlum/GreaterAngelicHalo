@@ -1,0 +1,27 @@
+{
+    "BundlesLayout": {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+        {
+            "Guid": "d79ca3a14a6d46e4987aa2127dafefe3",
+            "Filename": "flameoflifescaling.patch"
+        },
+        {
+            "Guid": "b3150c30090f4ec4195d8ca445700d91",
+            "Filename": "piercingrayscaling.patch"
+        },
+        {
+            "Guid": "7aa654dc15f051b4e865dc82b6765b0c",
+            "Filename": "burningbrightscaling.patch"
+        },
+        {
+            "Guid": "79b88c547ad8b3c4ea7fe0954d1c08db",
+            "Filename": "blindinglightsave.patch"
+        }
+    ]
+}
