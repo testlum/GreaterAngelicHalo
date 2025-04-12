@@ -2,7 +2,7 @@ Improves Improved Angelic Halo.
 
 **Blinding Light**
 
-Any enemy that attacks you for the first time each round must succeed on a Fortitude saving throw (DC = 10 + half your character level + your mythic rank + highest ability modifier) or be blinded for 1d4+1 rounds. On a successful save, the enemy is blinded for 1 round.
+Any enemy that attacks you for the first time each round must succeed on a Fortitude saving throw (DC = 10 + half your character level + your mythic rank + highest ability modifier) or be blinded for 1d4+1 rounds. On a successful save, the enemy is blinded for 1 round instead.
 
 **Burning Bright**
 
