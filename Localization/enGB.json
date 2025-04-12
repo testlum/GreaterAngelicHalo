@@ -18,7 +18,7 @@
         },
         {
             "Key": "c1295e7c-1348-4582-88d5-284e28ae1a72",
-            "Value": "Any enemy that attacks you for the first time each {g|Encyclopedia:Combat_Round}round{/g} must succeed on a {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} ({g|Encyclopedia:DC}DC{/g} = 10 + half your {g|Encyclopedia:Character_Level}character level{/g} + your mythic rank + highest ability modifier) or be {g|ConditionBlind}blinded{/g} for {g|Encyclopedia:Dice}1d4{/g}+1 rounds. On a successful save, the enemy is blinded for 1 round."
+            "Value": "Any enemy that attacks you for the first time each {g|Encyclopedia:Combat_Round}round{/g} must succeed on a {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} ({g|Encyclopedia:DC}DC{/g} = 10 + half your {g|Encyclopedia:Character_Level}character level{/g} + your mythic rank + highest ability modifier) or be {g|ConditionBlind}blinded{/g} for {g|Encyclopedia:Dice}1d4{/g}+1 rounds. On a successful save, the enemy is blinded for 1 round instead."
         },
         {
             "Key": "9afe5eb5-392d-4dae-a6ee-9ef447ac4ce9",
