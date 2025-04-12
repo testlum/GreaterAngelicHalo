@@ -5,10 +5,6 @@
             "Value": "All allies in range of the Angelic Halo gain {g|Encyclopedia:Fast_Healing}fast healing{/g} equal to 10 + your mythic rank for 1 {g|Encyclopedia:Combat_Round}round{/g} upon taking {g|Encyclopedia:Damage}damage{/g}."
         },
         {
-            "Key": "5e7b9ff9-28da-43f9-ad59-b8f2d4d88483",
-            "Value": "All allies in range of the Angelic Halo get fire, cold, acid, and electricity {g|Encyclopedia:Energy_Resistance}resistance{/g} equal to 5 per mythic rank, sonic and negative energy resistance equal to 3 per mythic rank, and force, unholy, holy, and divine resistance equal to 1 per mythic rank."
-        },
-        {
             "Key": "886fda7b-4998-4f8f-be25-5c954e3acc9b",
             "Value": "All enemies in range of the Angelic Halo suffer a {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Spell_Resistance}spell resistance{/g} and {g|Encyclopedia:Saving_Throw}saving throws{/g} equal to 1 + half your mythic rank."
         },
