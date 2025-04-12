@@ -6,5 +6,10 @@
     "Author": "testlum",
     "Repository": "",
     "HomePage": "",
-    "Dependencies": []
+    "Dependencies": [ 
+        {
+            "Name": "WrathPatches",
+            "Version": "1.18.0"
+        }
+    ]
 }
