@@ -14,4 +14,4 @@ All allies in range of the Angelic Halo gain fast healing equal to 10 + your myt
 
 **Piercing Rays**
 
-All enemies in range of the Angelic Halo suffer a penalty to spell resistance and saving throws equal to 1 + half your mythic rank.
+~~All enemies in range of the Angelic Halo suffer a penalty to spell resistance and saving throws equal to 1 + half your mythic rank.~~ Currently bugged!
